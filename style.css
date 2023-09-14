@@ -1,0 +1,35 @@
+.carousel-inner img{
+    padding: 30px;
+    height: 100vh;
+    width: 100vw;
+    border-radius: 50px;
+
+}
+body{
+    background-color:gold;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.contact{
+    height: 100px;
+    width: 100vw;
+    background-color:gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact img{
+    height: 30px;
+    width: 40px;
+    margin: 20px;
+}
